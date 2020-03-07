@@ -1,2 +1,1 @@
-Shrieking
-Screeching but harder
+'Tweet Generator' for CS1.2
