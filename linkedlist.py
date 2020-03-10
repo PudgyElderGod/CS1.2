@@ -1,4 +1,6 @@
 
+class Node(object):
+
     def __init__(self, data):
         """Initialize this node with the given data."""
         self.data = data
